@@ -141,7 +141,7 @@ Fin.
 ---
 ### Goals 
 - [ ] Normal gym badge
-- [ ] ???
+- [ ] Vendor Token
 
 ### Notes
 - There will be a catacomb vibe that may have an entrance near the beach cover perchance.
