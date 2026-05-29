@@ -1,1 +1,1 @@
-# senkieatlas.github.io
+# bookofatlas.github.io
